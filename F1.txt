@@ -1,0 +1,4 @@
+Git add
+Git Commit
+Git Push
+Git Pull

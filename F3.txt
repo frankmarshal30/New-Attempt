@@ -1,0 +1,6 @@
+Git add
+Git commit
+Git push
+Git push
+Git init
+Git merge
