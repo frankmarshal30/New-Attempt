@@ -3,3 +3,5 @@ Git commit
 Git push
 Git push
 Git init
+Git merge
+Git branch a
